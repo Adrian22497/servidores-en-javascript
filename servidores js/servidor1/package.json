@@ -1,0 +1,14 @@
+{
+  "name": "adrian-server1",
+  "version": "1.0.0",
+  "description": "Mi primer servidor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian LR",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
